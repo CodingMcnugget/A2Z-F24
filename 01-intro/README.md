@@ -60,3 +60,4 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
+- Lening -- Assignment 1 https://repeated-cake-04e.notion.site/Programming-from-A-Z-5bbe5a8ef7194741b8a930b2cf1ae1d4?pvs=4
