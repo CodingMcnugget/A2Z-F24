@@ -67,6 +67,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - add a link to your API / data source here
 - Cara -- [Covid19](https://github.com/CSSEGISandData/COVID-19?tab=readme-ov-file)
 - Iris --[Memes](https://github.com/D3vd/Meme_Api)
+- Lening --[text-to-Pokemon](https://replicate.com/lambdal/text-to-pokemon/api)
 
 ## Add your assignment below via Pull Request
 
@@ -76,6 +77,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Cara --[Week 2 - regex](https://pastoral-galliform-f42.notion.site/Week2-46b0dd5ea6594ec1b5322520b6979f82?pvs=4)
 - Zhiyang Wang -- [Complex your sentences-V-2.0.0](https://github.com/isZhiyangWang/atoz/blob/main/docs/week2.md)
+- Lening -- O'henry--[https://repeated-cake-04e.notion.site/Week2-6bfc3115ae624586a4238f39fbb8317e?pvs=4]
 
 
 ## Emoji Key for Video Tutorials, Readings, and more
